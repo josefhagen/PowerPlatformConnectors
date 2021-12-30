@@ -4,7 +4,7 @@
     "connectionParameters": {
       "token": {
         "oAuthSettings": {
-          "clientId": "1171073816755961",
+          "clientId": "client_id",
           "customParameters": {},
           "identityProvider": "facebook",
           "properties": {
